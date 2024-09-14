@@ -27,7 +27,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
-        android:src="@drawable/ic_launcher_background" />
+        android:src="@drawable/android" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
